@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloDicoding</string>
+    <string name="masukkan_tahun_lahir_anda">Masukkan tahun lahir Anda</string>
+    <string name="tekan">Tekan</string>
+</resources>
