@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Jujutsu Kaisen Wiki</string>
+    <string name="character_name">Yuji Itadori</string>
+    <string name="description">Yuji Itadori (虎いた杖どり悠ゆう仁じ Itadori Yūji?) adalah protagonis utama dalam seri Jujutsu Kaisen. Ia adalah anak dari Jin Itadori dan Kaori Itadori. Yuji adalah cucu dari Wasuke Itadori yang menjalani kehidupan normal hingga ia bertemu dengan Megumi dan memakan salah satu jari Sukuna. Setelah menjadi wadah Sukuna, Yuji mulai menghadiri Tokyo Jujutsu High bersama Megumi dan Nobara sebagai mahasiswa tahun pertama.</string>
+    <string name="about">Tentang</string>
+    <string name="title_about">Tentang Saya</string>
+    <string name="gender">Laki-laki</string>
+    <string name="tanggal_lahir">3 Februari 1990</string>
+    <string name="ability_title">Kemampuan dan Kekuatan</string>
+    <string name="ability_description">Tingkat Keahlian Keseluruhan : Suguru Geto adalah salah satu dari empat penyihir kelas khusus dan dianggap yang terburuk dari semua pengguna kutukan karena tingkat bahaya yang ia timbulkan bagi umat manusia. [18]\n\nSebagai seorang siswa, Suguru dan Satoru sama-sama dianggap \"yang terkuat\". [19] Suguru mampu melakukan pekerjaan singkat terhadap pengguna kutukan berpengalaman pada beberapa kesempatan dengan sedikit usaha. [20] Koleksi roh terkutuknya sangat banyak dengan beragam kemampuan dan peran berbeda dalam pertempuran. Suguru tidak terlalu bergantung pada kutukannya dan juga merupakan petarung jarak dekat yang berkemampuan tinggi. [21]</string>
+    <string name="share">Bagikan</string>
+
+    <string-array name="data_name">
+        <item>Yuji Itadori</item>
+        <item>Megumi Fushiguro</item>
+        <item>Nobara Kugisaki</item>
+        <item>Satoru Gojo</item>
+        <item>Maki Zenin</item>
+        <item>Toge inumaki</item>
+        <item>Panda</item>
+        <item>Yuta Okkotsu</item>
+        <item>Sukuna</item>
+        <item>Aoi</item>
+        <item>Geto</item>
+        <item>Nanami</item>
+        <!--  Todo</item>-->
+    </string-array>
+    <string-array name="data_description">
+        <item>Yuji Itadori (虎いた杖どり悠ゆう仁じ Itadori Yūji?) adalah protagonis utama dalam seri Jujutsu Kaisen. Ia adalah anak dari Jin Itadori dan Kaori Itadori. Yuji adalah cucu dari Wasuke Itadori yang menjalani kehidupan normal hingga ia bertemu dengan Megumi dan memakan salah satu jari Sukuna. Setelah menjadi wadah Sukuna, Yuji mulai menghadiri Tokyo Jujutsu High bersama Megumi dan Nobara sebagai mahasiswa tahun pertama.</item>
+
+        <item>Megumi Fushiguro (伏ふし黒ぐろ恵めぐみ Fushiguro Megumi?) adalah deuteragonis dalam seri Jujutsu Kaisen. Dia adalah seorang penyihir jujutsu kelas 2 dan mahasiswa tahun pertama di Tokyo Jujutsu High bersama Yuji Itadori dan Nobara Kugisaki. Megumi adalah saudara tiri Tsumiki Fushiguro dan sebagai putra dari Toji Fushiguro, Megumi juga merupakan keturunan Keluarga Zenin. Megumi lahir di luar keluarga sebagai kartu truf Toji dan akhirnya ditemukan oleh Satoru Gojo, yang menjadi mentornya dan mendaftarkannya di Jujutsu High sebagai muridnya.</item>
+
+        <item>Nobara Kugisaki (釘くぎ崎さき野の薔ば薇ら Kugisaki Nobara?) adalah tritagonis dalam seri Jujutsu Kaisen. Dia adalah seorang mahasiswa tahun pertama dan penyihir jujutsu kelas 3 di Tokyo Jujutsu High yang belajar di bawah bimbingan Satoru Gojo bersama dengan Yuji dan Megumi.</item>
+
+        <item>Satoru Gojo (五ご条じょう悟さとる Gojō Satoru?) adalah salah satu protagonis utama dalam seri Jujutsu Kaisen. Dia adalah seorang penyihir jujutsu kelas istimewa dan dikenal luas sebagai yang terkuat di dunia. Satoru adalah kebanggaan Keluarga Gojo, orang pertama yang mewarisi baik Kemampuan Batas (Limitless) maupun Enam Mata (Six Eyes) dalam empat ratus tahun terakhir. Ia bekerja sebagai guru di Tokyo Jujutsu High dan menggunakan pengaruhnya untuk melindungi dan melatih sekutu muda yang kuat.</item>
+
+        <item>Maki Zenin (禪ぜん院いん真ま希き Zen in Maki?) adalah karakter pendukung utama dalam Jujutsu Kaisen dan salah satu protagonis utama dalam prekuelnya, Jujutsu Kaisen 0: Jujutsu High. Saat ini, ia adalah mahasiswa tahun kedua di Tokyo Jujutsu High. Putri dari Ogi Zenin dan saudara kembarnya yang lebih tua dari Mai Zenin, Maki lahir di Keluarga Zenin. Lahir sebagai non-sorcerer di salah satu dari Tiga Keluarga Penyihir Besar, Maki seringkali diperlakukan dengan tidak adil dan merasa terdorong untuk keluar dari keluarga Zenin. Ia bercita-cita menjadi seorang penyihir jujutsu hebat untuk mengejek keluarganya, bekerja sama dengan teman-temannya Panda dan Toge Inumaki, sambil juga menjadi panutan bagi para mahasiswa tahun pertama.</item>
+
+        <item>Toge Inumaki (狗いぬ巻まき棘とげ Inumaki Toge?) adalah karakter pendukung utama dalam Jujutsu Kaisen dan salah satu protagonis utama dalam prekuelnya, Jujutsu Kaisen 0: Jujutsu High. Ia adalah keturunan dari keluarga Inumaki dan telah mewarisi kutukan berbicara dari keluarga tersebut, yang telah mengembangkan pola bicara uniknya sendiri untuk menghindari mengutuk orang lain. Toge saat ini adalah penyihir jujutsu semi-kelas 1 dan mahasiswa tahun kedua di Tokyo Jujutsu High bersama dengan teman sekelasnya Yuta, Maki, dan Panda.</item>
+
+        <item>Panda (パンダ Panda?) adalah karakter pendukung utama dalam Jujutsu Kaisen dan salah satu protagonis utama dalam prekuelnya, Jujutsu Kaisen 0: Jujutsu High. Panda bukanlah panda sungguhan, ia adalah Mayat Kutukan yang Berubah dengan Tiba-tiba yang diciptakan oleh Masamichi Yaga. Ia menghadiri Jujutsu High sebagai mahasiswa tahun kedua bersama dengan Maki, Toge, dan Yuta.</item>
+
+        <item>Yuta Okkotsu (乙おっ骨こつ憂ゆう太た Okkotsu Yūta?) adalah karakter pendukung utama dalam seri Jujutsu Kaisen dan protagonis utama dalam seri prekuelnya, Jujutsu Kaisen 0: Jujutsu High. Awalnya, ia adalah manusia kutukan kelas istimewa yang dihantui oleh sahabat masa kecilnya yang sudah meninggal, Rika Orimoto. Satoru Gojo menjadi mentornya dan mendaftarkannya di Tokyo Jujutsu High.
+            Yuta saat ini adalah mahasiswa tahun kedua di Jujutsu High dan bekerja sebagai penyihir jujutsu. Ia berlatih di luar negeri di Afrika bersama Miguel hingga setelah Insiden Shibuya ketika ia kembali ke Tokyo.</item>
+
+        <item>Ryomen Sukuna (両りょう面めん宿すく儺な Ryōmen Sukuna?), lebih sering disebut sebagai Sukuna (宿すく儺な Sukuna?), adalah penyihir jujutsu terkuat dari seribu tahun yang lalu. Dianggap sebagai Raja Kutukan yang tak terbantahkan (呪のろいの王おう Noroi no Ō?), Sukuna adalah salah satu antagonis utama dalam seri Jujutsu Kaisen. Menurut legenda, Sukuna adalah Demon Khayalan (仮か想そうの鬼き神じん Kasō no Kijin?) selama Era Heian, tetapi sebenarnya dia adalah seorang penyihir yang juga dikenal sebagai Orang yang Tercela (堕だ天てん Daten?). Para penyihir jujutsu dari Zaman Emas Jujutsu berjuang habis-habisan melawannya tetapi akhirnya satu demi satu tumbang. Sukuna terus eksis melalui berbagai zaman dengan cara bertransformasi menjadi objek kutukan setelah kematiannya, di mana dia membagi kekuatannya menjadi dua puluh jari yang tak bisa hancur. Sukuna menjadi reinkarnasi pada bulan Juni 2018 ketika Yuji Itadori memakan salah satu jarinya. Sukuna terperangkap di dalam tubuh Yuji dan jarang mengendalikan tubuh tersebut sampai akhirnya ia berhasil mentransfer jiwanya ke tubuh Megumi Fushiguro.</item>
+
+        <item>Aoi Todo (東とう堂どう葵あおい Tōdō Aoi?) adalah karakter pendukung dalam seri Jujutsu Kaisen. Dia adalah mahasiswa tahun ketiga di Sekolah Tinggi Jujutsu Kyoto dan seorang penyihir jujutsu kelas 1. Dia dibimbing oleh Yuki Tsukumo saat masih muda dan menganggap Yuji Itadori sebagai sahabat terbaiknya.</item>
+
+        <item>Suguru Geto (夏げ油とう傑すぐる Getō Suguru?) adalah antagonis dalam seri Jujutsu Kaisen dan prekuelnya, Jujutsu Kaisen 0: Jujutsu High. Awalnya, dia adalah seorang mahasiswa dari Masamichi Yaga bersama Satoru Gojo dan Shoko Ieiri di Tokyo Jujutsu High. Pengalamannya sebagai penyihir jujutsu menumbuhkan kebencian mendalamnya terhadap non-penyihir, yang mengakibatkan insiden di mana Suguru membantai lebih dari seratus warga sipil dalam satu malam. Ia diusir dari Jujutsu High dan dikenal sebagai salah satu pengguna kutukan terburuk.</item>
+
+        <item>Kento Nanami (七なな海み建けん人と Nanami Kento?) adalah karakter pendukung dalam Jujutsu Kaisen. Dia adalah mantan mahasiswa Tokyo Jujutsu High di mana dia merupakan adik kelas dari Satoru Gojo dan Suguru Geto. Nanami awalnya meninggalkan Jujutsu High setelah lulus untuk menjadi seorang pegawai kantoran, tetapi ia kembali empat tahun kemudian untuk melanjutkan pekerjaannya sebagai penyihir jujutsu. Ketika bekerja sebagai penyihir Jujutsu High, Nanami memiliki peringkat kelas 1 dan beroperasi terutama di kampus Tokyo. Dengan pengenalan Satoru, ia juga menjadi mentor dekat bagi Yuji Itadori.</item>
+
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/yuji</item>
+        <item>@drawable/megumi</item>
+        <item>@drawable/nobara</item>
+        <item>@drawable/gojo</item>
+        <item>@drawable/maki</item>
+        <item>@drawable/toge</item>
+        <item>@drawable/panda</item>
+        <item>@drawable/yuta</item>
+        <item>@drawable/sukuna</item>
+        <item>@drawable/aoi</item>
+        <item>@drawable/geto</item>
+        <item>@drawable/nanami</item>
+    </integer-array>
+
+    <string-array name="data_gender">
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+        <item>Laki-laki</item>
+    </string-array>
+
+    <string-array name="data_birthday">
+        <item>20 Maret 2003</item>
+        <item>22 Desember 2002</item>
+        <item>7 Agustus 2002</item>
+        <item>7 Desember 1989</item>
+        <item>20 Januari 2002</item>
+        <item>23 Oktober 2001</item>
+        <item>5 Maret 2003</item>
+        <item>7 Maret 2001</item>
+        <item>Tidak Diketahui</item>
+        <item>23 September 2000</item>
+        <item>3 Juli 1990</item>
+        <item>3 Februari 1990</item>
+    </string-array>
+
+    <string-array name="data_ability">
+        <item>Yuji adalah salah satu siswa terkuat dan berbakat di sekolahnya, Satoru Gojo menempatkannya pada tingkat potensi yang sama dengan Yuta Okkotsu dan Kinji Hakari sebagai salah satu dari tiga siswa yang dia percayai akan melampaui kekuatannya. Meskipun tidak memiliki hubungan dengan dunia jujutsu sebelum beberapa bulan sebelum Insiden Shibuya, Yuji mampu bersaing dengan dan mengalahkan kutukan Tingkat 1 dan Special Grade. Yuji diberkahi dengan kemampuan fisik super manusia yang dengan mahir dia gabungkan dengan energi kutukannya. Yuji juga mampu mengendalikan Sukuna tanpa efek buruk. Hal ini memungkinkannya untuk melukai Mahito, yang kendali atas bentuk jiwanya sebaliknya membuatnya tahan terhadap luka.</item>
+        <item>Megumi adalah seorang penyihir tingkat 2 dan memiliki salah satu potensi tertinggi di antara semua siswa di Jujutsu High, tanpa memandang usia. Dia mewarisi Teknik Sepuluh Bayangan yang berharga dari klan Zenin dan menjadi favorit dari penyihir terkuat itu sendiri, Satoru. Satoru percaya bahwa Megumi bisa menjadi sekuat dirinya dan mengatakan bahwa kemungkinan besar Megumi bahkan memiliki lebih banyak keterampilan dan potensi daripada Yuji. Mai Zenin memuji Megumi sebagai seorang jenius yang memulai sekolah dengan peringkat tingkat 2. Noritoshi Kamo menyampaikan sentimen yang sama, mengklaim bahwa usia Megumi tidak relevan karena teknik yang diwarisinya, dan bahwa Megumi bahkan lebih dapat diandalkan daripada Kepala klan Zenin yang mabuk. Bahkan Sukuna pun tertarik khusus pada Megumi karena bakat uniknya.</item>
+        <item>Nobara dijuluki sebagai seorang penyihir jujutsu tingkat 3 oleh Jujutsu High. Ini sebagian besar disebabkan oleh statusnya sebagai mahasiswa tahun pertama yang masih muda dan kurang pengalaman dalam bekerja sebagai penyihir. Nobara telah beberapa kali menunjukkan kemampuannya untuk bersaing dengan pengguna jujutsu yang memiliki peringkat jauh di atasnya dalam hal tingkatan. Ketika masuk sekolah, Nobara memiliki pemahaman yang kuat tentang bagaimana mengusir kutukan dengan teknik bawaannya.[21] Dia juga memiliki keteguhan mental untuk mengatasi pekerjaan tersebut tetapi kurang dalam hal kemampuan fisik. Saat bertarung di Pusat Penahanan Eishu, Nobara berhasil membela diri dengan baik hingga dia kehabisan paku untuk bertarung</item>
+        <item>Di antara para penyihir tingkat khusus, Satoru dikenal sebagai penyihir terkuat dalam seri ini, memiliki jumlah energi terkutuk yang sangat besar dan teknik yang sangat kuat dengan potensi bahaya. Sepertinya tidak ada yang bisa menyamai tingkat keahliannya dalam alur cerita saat ini, kecuali Raja Kutukan, Sukuna.</item>
+        <item>Peringkat Maki di kelas 4 sama sekali tidak mencerminkan tingkat keterampilannya yang sebenarnya. Dia lahir sebagai non-sorcerer, tetapi dia selalu memiliki kemampuan fisik yang luar biasa, diberikan melalui pembatasan surgawi sebagai gantinya atas energi kutuknya yang sangat rendah. Dengan menguasai penggunaan senjata dan mempelajari kutukan di Sekolah Jujutsu, dia tetap menjadi seorang penyihir jujutsu.</item>
+        <item>Sebagai anggota klan Inumaki yang mewarisi ucapan terkutuk, Toge adalah seorang penyihir semi-grade 1 yang dihormati dan sangat berbakat. Dia menduduki peringkat grade 2 sebagai mahasiswa tahun pertama dan satu-satunya di antara teman-temannya yang bisa menjalankan misi solo. Saat itu, Geto juga percaya bahwa Toge memiliki potensi besar. Kemampuannya hanya terus berkembang sejak saat itu, dan meskipun saat ini belum selevel dengan Yuta, Hakari, atau Todo, Toge tetap menjadi salah satu siswa terampil di Sekolah Jujutsu.</item>
+        <item>Panda adalah seorang penyihir tingkat 2 dan adalah jenazah terkutuk yang bermutasi tiba-tiba, yang paling canggih dari jenisnya. Dengan afinitas alami terhadap jujutsu, Panda mampu mengusir kutukan hanya berdasarkan kemampuan fisiknya. Dia sangat cerdas dan mampu berpikir satu langkah di depan lawannya dalam pertarungan. Fisiologi Panda juga memberikan tantangan unik dalam pertempuran. Satu-satunya cara untuk menjatuhkannya adalah dengan menghancurkan inti energi terkutuk yang berfungsi sebagai jantungnya. Selain itu, tubuhnya sangat tahan lama dan dapat diperkuat menggunakan perlindungan jujutsu.</item>
+        <item>Yuta adalah salah satu dari hanya empat penyihir kelas khusus yang diakui oleh Jujutsu High.[23] Sementara diganggu oleh roh yang haus akan balas dendam Rika, Yuta segera terdaftar sebagai kelas khusus karena kekuatan besar Rika, sehingga menjadikannya orang terbaru yang menerima peringkat tersebut.</item>
+        <item>Pada Zaman Emas Jujutsu, Era Heian, Ryomen Sukuna ditakuti dan dihormati oleh semua orang pada masanya sebagai penyihir paling kuat saat itu, mengalahkan dan membunuh ribuan penyihir Jujutsu bahkan saat mereka mengasah keterampilan mereka melawan dia. Salah satu prestasi yang dia raih termasuk membantai sendirian kedua kelompok, yaitu Sun-Moon-Stars dan Lima Jenderal Kosong dengan sangat kejam sehingga mereka tidak dapat dikenali sebagai mayat, kelompok terpilih dari Unit Penaklukan Klan Fujiwara, yang membuat penguasa Jepang sangat ketakutan hingga bersedia mengadakan perayaan untuk menghormatinya. Dampak yang Sukuna tinggalkan dalam sejarah hingga dia meninggal membuatnya mendapatkan gelar "Penyihir Terkuat dalam Sejarah," serta "Raja Kutukan," dianggap sebagai Kutukan yang paling kuat dalam sejarah. Kekuatan Sukuna masih begitu dihormati sehingga bahkan Satoru Gojo, penyihir jujutsu terkuat zaman modern, yang memiliki tingkat kepercayaan diri dan kebanggaan dalam kemampuannya, mengakui kekuatannya dan bahwa pertarungan antara keduanya akan sulit.</item>
+        <item>Aoi adalah seorang penyihir yang sangat kuat, tanpa ragu salah satu dari siswa terkuat di Sekolah Tinggi Jujutsu. Dia berhasil mencapai peringkat penyihir jujutsu kelas 1 sebagai seorang siswa meskipun berasal dari keluarga non-penyihir. Aoi berhasil mengalahkan lima roh terkutuk kelas 1 dan satu kelas khusus saat serangan Jalur Malam Geto di Kyoto. Dia hanya menggunakan teknik terkutuknya untuk mengalahkan kelas khusus tersebut. Prestasi ini menjadi terkenal di kalangan komunitas jujutsu dan menyebabkan rumor bahwa Aoi berhasil mengalahkan keenam kutukan tersebut tanpa menggunakan teknik terkutuknya.</item>
+        <item>Nanami adalah contoh model dari apa yang seharusnya dimiliki oleh seorang jujutsu sorcerer kelas 1. Baik Yuji maupun Takuma Ino sama-sama mengagumi Nanami karena sikapnya saat menghadapi situasi sulit serta keterampilannya yang luar biasa dalam menyelesaikannya. Satoru Gojo mempercayakan Nanami untuk menjaga Yuji karena sifat-sifat ini[16] dan itu sangat berkontribusi pada perkembangan Yuji.[17] Ino, seorang sorcerer kelas 2 yang kuat, selalu menghadapi setiap keputusan sulit dengan pertanyaan "apa yang akan Nanami lakukan" karena ia yakin Nanami selalu menangani segala sesuatu dengan cara yang benar.[18]</item>
+        <item>Suguru Geto adalah salah satu dari empat penyihir kelas khusus dan dianggap sebagai yang terburuk di antara semua pengguna kutukan karena tingkat bahaya yang dia tampilkan kepada manusia.[18] Sebagai seorang siswa, Suguru dan Satoru keduanya dianggap "yang terkuat".[19] Suguru mampu mengalahkan pengguna kutukan berpengalaman dengan mudah dalam beberapa kesempatan.[20] Koleksinya dari roh kutukan sangat beragam dengan berbagai kemampuan dan peran dalam pertempuran. Suguru tidak terlalu bergantung pada kutukannya dan juga sangat mampu dalam pertarungan jarak dekat.[21]</item>
+    </string-array>
+</resources>

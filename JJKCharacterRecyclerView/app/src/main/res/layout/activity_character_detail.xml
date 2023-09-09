@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CharacterDetail">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_detail_character"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="48dp"
+        app:cardCornerRadius="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp">
+
+            <ImageView
+                android:id="@+id/img_detail_character"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/yuta"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_detail_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:text="@string/character_name"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/img_detail_character"
+                app:layout_constraintTop_toTopOf="@+id/img_detail_character" />
+
+            <TextView
+                android:id="@+id/tv_detail_gender"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/gender"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="@+id/tv_detail_name"
+                app:layout_constraintStart_toStartOf="@+id/tv_detail_name"
+                app:layout_constraintTop_toBottomOf="@+id/tv_detail_name" />
+
+            <TextView
+                android:id="@+id/tv_detail_birthday"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/tanggal_lahir"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="@+id/tv_detail_name"
+                app:layout_constraintStart_toStartOf="@+id/tv_detail_name"
+                app:layout_constraintTop_toBottomOf="@+id/tv_detail_gender" />
+
+
+            <TextView
+                android:id="@+id/tv_detail_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="18dp"
+                android:layout_marginTop="16dp"
+                android:justificationMode="inter_word"
+                android:text="@string/description"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/img_detail_character" />
+
+            <TextView
+                android:id="@+id/tv_ability_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="16dp"
+                android:text="@string/ability_title"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="@+id/tv_detail_description"
+                app:layout_constraintStart_toStartOf="@+id/tv_detail_description"
+                app:layout_constraintTop_toBottomOf="@+id/tv_detail_description" />
+
+            <TextView
+                android:id="@+id/tv_detail_ability"
+                style="bold"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginHorizontal="16dp"
+                android:justificationMode="inter_word"
+                android:text="@string/ability_description"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_ability_title" />
+
+            <Button
+                android:id="@+id/action_share"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:text="@string/share"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tv_detail_ability" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/action_share" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</ScrollView>
