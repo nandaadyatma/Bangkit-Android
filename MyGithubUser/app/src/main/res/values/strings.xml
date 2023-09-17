@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyGithubUser</string>
+    <string name="searcbar_hint">Cari username pengguna</string>
 </resources>
